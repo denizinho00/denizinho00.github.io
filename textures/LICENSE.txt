@@ -1,0 +1,7 @@
+Bu klasördeki dosyalar Poly Haven'dan (https://polyhaven.com) alınmıştır.
+Lisans: CC0 (kamu malı) — ticari kullanım dahil serbest, kaynak göstermek zorunlu değildir.
+
+wood_diff.jpg, wood_nor.jpg, wood_rough.jpg
+  Kaynak: https://polyhaven.com/a/dark_wood  (2K, 1536 piksele küçültüldü)
+studio.hdr
+  Kaynak: https://polyhaven.com/a/brown_photostudio_02  (1K)
